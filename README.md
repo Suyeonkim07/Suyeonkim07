@@ -1,7 +1,8 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20&fontSize=90&desc=i'm su yeon&descSize=30&descAlign=60&descAlignY=65" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&&section=header&text=Hi%20&fontSize=90&desc=i'm su yeon&descSize=30&descAlign=60&descAlignY=65" />
 
  <a href="[클릭시 이동할 링크](https://velog.io/@suu07)" target="_blank"><img src="https://img.shields.io/badge/DevBlog-lightgrey?style=flat-square&logo=velog&logoColor=white"/></a>
+ </div>
 <!--
 **Suyeonkim07/Suyeonkim07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Skills
